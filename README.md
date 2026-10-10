@@ -7,4 +7,4 @@ The name comes from the **kiki–bouba effect**: people consistently match spiky
 - [`docs/01-product-plan.md`](docs/01-product-plan.md): problem, audience, personas, jobs to be done, use cases, features, metrics, edge cases
 - [`docs/02-design-plan.md`](docs/02-design-plan.md): the sound-to-visual mapping, a Sound Atlas of 12 sound classes with the reasoning for each, visual direction, foundations, components, screen list and Figma structure
 
-The screens are designed in Figma: [kiki: sound you can see](https://www.figma.com/design/kFq7cmrDkUUmYZqWJHK0oA). See [`docs/03-figma-build.md`](docs/03-figma-build.md) for what is in the file.
+The screens are designed in Figma: [kiki: sound you can see](https://www.figma.com/design/kFq7cmrDkUUmYZqWJHK0oA). See [`docs/03-figma-build.md`](docs/03-figma-build.md) for what is in the file and [`docs/04-motion-and-prototype.md`](docs/04-motion-and-prototype.md) for motion and prototype flows.
