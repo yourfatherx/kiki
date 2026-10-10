@@ -11,7 +11,7 @@ All motion is built from Figma Motion manual keyframes on each screen's timeline
 
 | Screen | What moves | Timing |
 |---|---|---|
-| 01 Splash | The kiki star jabs and slowly rotates. The bouba blob breathes. The wordmark, tagline and footnote rise in | 4 s |
+| 01 Splash | The Kiki mark fades and springs in (`GENTLE`), then breathes (×1.035) with a 2.5° tilt. The wordmark, tagline and footnote rise in | 4 s |
 | 02 Sound you can see | Glyphs drift at offset phases and the mist breathes. Headline and body rise in | 5 s |
 | 03 The rule | The smoke glyph jabs 3 times while the water ribbon sways. Cards and the Kiki-index scale stagger in | 3 s |
 | 04 Urgency tiers | Tier cards stagger in. Critical pulses in T3, Attention rings ding-dong, Ambient drifts | 3 s |

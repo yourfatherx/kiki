@@ -30,3 +30,17 @@ Each glyph is generated from a polar or parametric path, not drawn by hand:
 - a sine ribbon for Flow
 
 Each glyph then gets a vertical gradient (lighter = higher pitch), an inner highlight and a noise grain, and sits on a blurred radial aura. A component's description records its Kiki index and why it looks the way it does.
+
+## Logo: "Kiki, the listener"
+- **Component:** `Logo / Mark`, with the variants **Dusk violet** (primary), **Deep rose** and **Ocean**.
+- **Board:** `Board · Logo`, showing the primary mark, Sleep mode, the lockup, small sizes, colourways and anatomy.
+- **Concept:** pointed ears (kiki) on a soft round body (bouba), so the mark is the design rule itself.
+- **Silhouette:** traced from the reference image on its solid core (luminance < 30), not on the blurred fringe. It was then resampled every 6 px and smoothed, with the ear tips and the ear junction pinned. The junction is a shallow, soft angle, not a cut-in V.
+- **Shading:** measured from the reference's interior luminance.
+  - Light comes from the top-left.
+  - A soft lit band runs from the ear junction diagonally down across the left cheek, with a faint crease ridge inside it.
+  - Deep shadow sits in the right cheek and the right ear.
+  - All shading layers are masked to the body.
+- **Edges:** a blurred same-hue fringe (two layers) lets the colour dissolve into the background. A chromatic rim (cyan, blue and magenta offset copies, faded in toward the bottom) sits on the lower-right edge only.
+- **Eyes:** white dots at the reference's measured centres and radius.
+- **Splash (01):** the mark sits above the wordmark. It fades and springs in, then breathes (×1.035) with a 2.5° tilt over a 4 s cycle.
