@@ -4,6 +4,7 @@
 
 The name comes from the **kiki–bouba effect**: people consistently match spiky shapes to sharp sounds and round shapes to soft ones. Kiki uses that as its one design rule. Sharp sound, spiky form. Soft sound, round form.
 
+- [`docs/00-60-second-read.md`](docs/00-60-second-read.md): the one-minute version for recruiters and design leads
 - [`docs/01-product-plan.md`](docs/01-product-plan.md): problem, audience, personas, jobs to be done, use cases, features, metrics, edge cases
 - [`docs/02-design-plan.md`](docs/02-design-plan.md): the sound-to-visual mapping, a Sound Atlas of 12 sound classes with the reasoning for each, visual direction, foundations, components, screen list and Figma structure
 
