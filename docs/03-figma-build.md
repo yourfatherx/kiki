@@ -6,7 +6,7 @@ The file has a single page, `Kiki`, laid out like Paymate's: cover, boards, scre
 
 | Area | What's there |
 |---|---|
-| `Cover · Kiki` | 1920×1200. Wordmark, tagline, three phone mockups (doorbell, smoke alarm, Talk), the kiki→bouba glyph strip, and a sticker |
+| `Cover · Kiki` | 1920×1200. Wordmark with the Kiki mark as a lockup, tagline, three phone mockups (doorbell, smoke alarm, Talk), the kiki→bouba glyph strip, and a sticker with the mark |
 | `Board · Design principles` | Direction, palette by urgency tier (bound to variables), the Fraunces SOFT-axis type specimen, and 6 principles |
 | `Board · Sound Atlas` | The kiki–bouba scale (0–100), 8 acoustic-to-visual mapping rules, and 12 sound-class cards. Each card covers what it sounds like, how it looks, colour, and motion/haptic. This is where each visual language is defended |
 | `Screens · Onboarding` | 01 Splash · 02 Sound you can see · 03 The rule · 04 Urgency tiers · 05 Permissions · 06 Pick your sounds · 07 Teach your name · 08 Teach a sound |
