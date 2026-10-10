@@ -48,7 +48,7 @@ Each measurable property of a sound maps to one visual property. Every mapping i
   - glowing blurred CTA button for the main action during onboarding
 
 ## 4. Foundations
-- **Canvas**: warm off-white `#F4F2EE` with film grain. Cards are `#ECEAE6` with a 28px radius. Text ink is `#141414`. Sleep mode uses a near-black `#0E0E12` canvas.
+- **Canvas**: warm off-white `#F4F2EE` with film grain. Cards are `#ECEAE6` with a 28px radius. Text ink is a warm charcoal, `#2B2926`, rather than pure black, and secondary text is `#77736C`. Sleep mode uses a near-black `#0E0E12` canvas.
 - **Tier colours**:
   - Critical: Vermilion `#FF4A1C`
   - Attention: Amber `#F5A524`, Coral `#FF7A59`, Rose `#F27BA6`, Mint `#5ED3B0`
@@ -56,6 +56,7 @@ Each measurable property of a sound maps to one visual property. Every mapping i
   - Each colour gets a soft gradient ramp for textures
 - **Type**:
   - **Fraunces** for headlines and kinetic captions. Its variable **SOFT** axis literally rounds the letters, so bouba/kiki applies to the type as well. Soft speech is drawn with SOFT=100 and sharp or shouted speech with SOFT=0 and heavier weight.
+  - **Weights stay light.** Headlines are Fraunces Light (wght 300). Expressive type goes up to about wght 520, and only for loud speech. The type should support the glyphs, not compete with them.
   - **Inter** for the UI.
   - The defence: the type follows the same rule as the shapes.
 - **Texture recipe in Figma**: blurred ellipses with radial and angular gradients, plus layer blur, a Noise effect for grain, and the parametric glyph vector on top.

@@ -18,7 +18,7 @@ The file has a single page, `Kiki`, laid out like Paymate's: cover, boards, scre
 - **Variables:**
   - `kiki/color` has 22 tokens with **Day** and **Sleep** modes. Screens 11, 19 and 20 switch to Sleep through an explicit mode on the frame.
   - `kiki/space` holds spacing and radius tokens.
-- **Text styles:** Display, Title, Body, Label and Caps. Headlines use Fraunces at `SOFT 100`. UI text uses Inter.
+- **Text styles:** Display, Title, Body, Label and Caps. Headlines use Fraunces Light (wght 300) at `SOFT 100`, in charcoal `#2B2926`. Expressive moments are capped at about wght 520. UI text uses Inter Regular and Medium.
 - **Effect styles:** Grain (noise), Soft blur, Card elevation.
 - **Frames:** 393×852 (iPhone 16 Pro).
 
